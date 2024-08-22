@@ -1,5 +1,5 @@
 
-desktop-image: "background.png"
+desktop-image: "background-1024x768.png"
 title-text: " "
 title-color: "#ffffff"
 message-color: "#f2f2f2"
@@ -48,7 +48,7 @@ terminal-box: "terminal_box_*.png"
     top = 95%
     width = 10%
     height = 25
-    + label {text = "@VTOY_HOTKEY_TIP@" color = "blue" align = "left"} 
+    + label {text = "@VTOY_HOTKEY_TIP@" color = "white" align = "left"} 
 }
 
 

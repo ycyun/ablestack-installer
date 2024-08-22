@@ -26,9 +26,9 @@ export PATH="./tool/$TOOLDIR:$PATH"
 
 echo ''
 echo '**********************************************'
-echo "      Ventoy: $curver  $TOOLDIR"
-echo "      longpanda admin@ventoy.net"
-echo "      https://www.ventoy.net"
+echo "      ABLESTACK Installer: $curver  $TOOLDIR"
+echo "      기술지원 tech@ablecloud.io"
+echo "      https://www.ablecloud.io"
 echo '**********************************************'
 echo ''
 
